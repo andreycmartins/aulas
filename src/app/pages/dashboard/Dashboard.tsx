@@ -1,6 +1,4 @@
-
 export const Dashboard = () => {
-
   return (
     <div>
       <p>Dashboard</p>
